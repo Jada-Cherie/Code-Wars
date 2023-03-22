@@ -1,2 +1,2 @@
 # Code-Wars
-My Code Wars
+My Code War Solutions
