@@ -13,6 +13,7 @@
 
 // Note that your boss is in the room (boss), their score is worth double it's face value (but they are still just one person!).
 
+//passed the first test but not the second
 function outed(meet, boss){
     //set total score and the number of people to zero b/c we weren't given otherwise
   let totalScore = 0
