@@ -11,9 +11,6 @@
 
 // Go to work!
 
-
-
-
 function fireFight(s){
     console.log(s)
     return s.split('Fire').join('~~')
