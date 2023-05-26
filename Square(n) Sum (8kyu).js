@@ -24,12 +24,12 @@ function squareSum(numbers){
 //take all of the numbers and then add them together
 function SqSum (numbers) {
   let sum = 0
-  numbers.forEach(number => sum += number ** 2)
+  numbers.forEach(number => sum += number ** 2) 
 
   return sum
 } 
 
-  
+
 
 
 
